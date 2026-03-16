@@ -1,1 +1,0 @@
-# Fake-News-Detection-System-and-Verification-Tools---Infosys-Springboard
