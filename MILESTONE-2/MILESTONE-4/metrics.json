@@ -1,0 +1,50 @@
+{
+  "articles_analyzed": 14,
+  "training": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": [
+      [
+        22,
+        0
+      ],
+      [
+        0,
+        22
+      ]
+    ],
+    "classification_report": {
+      "fake": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 22.0
+      },
+      "real": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 22.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 44.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 44.0
+      }
+    },
+    "dataset_rows": 220,
+    "train_rows": 176,
+    "test_rows": 44,
+    "transformer_enabled": true
+  }
+}
